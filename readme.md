@@ -12,3 +12,7 @@ Your staff can simply manage the entire business by using this app. Check-ins, c
 ## Netlify Deploy
 
 ### `https://if-wild-oasis-project.netlify.app/login`
+
+## Demo user login data:
+- if@example.com
+- if
